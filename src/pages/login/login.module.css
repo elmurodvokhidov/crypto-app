@@ -1,0 +1,121 @@
+.Register {
+    width: 100%;
+    height: 100vh;
+    background-color: whitesmoke;
+    position: relative;
+}
+
+.modal {
+    width: 400px;
+    height: 4cqb;
+    border-radius: 20px;
+    border-radius: 20px;
+    text-align: center;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+
+}
+
+.tepa {
+    width: 400px;
+    height: 50px;
+    border-radius: 20px 20px 0px 0px;
+    background: #A790C6;
+}
+
+.tepa h3 {
+    color: #FFF;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+#inp1 {
+    border-radius: 20px;
+    border: 3px solid #A790C6;
+    background: fff;
+    width: 300px;
+    height: 30px;
+    margin-top: 30px;
+    color: #808080;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#inp2 {
+    border-radius: 20px;
+    border: 3px solid #A790C6;
+    background: fff;
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    color: #808080;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+
+.rad {
+    display: flex;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.rad p {
+    color: #323232;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.btnn {
+    border-radius: 100px;
+    background: #A790C6;
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 700;
+    border: none;
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+}
+
+.ico {
+    margin-top: 20px;
+
+}
+
+#ic1 {
+    font-size: 20px;
+}
+
+#ic2 {
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#inp5 {
+    border-radius: 20px;
+    border: 3px solid #A790C6;
+    background: fff;
+    width: 300px;
+    height: 30px;
+    margin-top: 10px;
+    color: #808080;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+#inp6 {
+    border-radius: 20px;
+    border: 3px solid #A790C6;
+    background: fff;
+    width: 300px;
+    height: 30px;
+    margin-top: 20px;
+    color: #808080;
+    font-size: 25px;
+    font-weight: 400;
+}
