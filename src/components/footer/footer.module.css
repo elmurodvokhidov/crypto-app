@@ -1,0 +1,19 @@
+.footer{
+    position: relative;
+    height: 300px;
+}
+.footer .img{
+    width: 100%;
+    height: 600px;
+    position: absolute;
+    bottom: 0;
+}
+.footer1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 500px;
+    position: absolute;
+    bottom: 0;
+}
+
